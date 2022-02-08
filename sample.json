@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Big Corporation",
+        "numberOfEmployess": 10000,
+        "ceo": "Mary",
+        "rating": 3.6
+    },
+    {
+        "name": "Small Startup",
+        "numberOfEmployees": 3,
+        "ceo": null,
+        "rating": 4.3
+    },
+    {
+        "emp_name": "Nikhil",
+        "email": "nikhil@geeksforgeeks.org",
+        "job_profile": "Full Time"
+    },
+    {
+        "emp_name": "Nikhil",
+        "email": "nikhil@geeksforgeeks.org",
+        "job_profile": "Full Time"
+    }
+]
